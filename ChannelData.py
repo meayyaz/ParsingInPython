@@ -1,7 +1,7 @@
 import json
 import urllib.request
 
-GOOGLE_API_KEY="AIzaSyA0PhGcAW5tv_B0h-1ieiiZo0xhKGZsSvc"
+GOOGLE_API_KEY="<YOUR_GOOGLE_KEY>"
 CHANNEL_ID="UCllefjGak7WtAV3sVcRy9xQ&"
 
 urlData = "https://www.googleapis.com/youtube/v3/search?channelId="+CHANNEL_ID+"order=date&part=snippet&type=video&maxResults=500&key="+GOOGLE_API_KEY
