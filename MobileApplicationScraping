@@ -1,0 +1,9 @@
+In order to scrap data from mobile application we can follow following step.
+Run your mobile application in emulator . Android Studio, can be good choice for that
+Install and configure HTTP ToolKit to review HTTP/HTTPs traffic for your application.
+Install your applicaiton in emulator 
+View Mobile Appplication Traffic on HTTP Tool kit
+From HTTP Tool Kit, we can get http endpoint that our mobile application is using to populate its data.
+Next we can directly call that url/endpoint to get data
+
+https://httptoolkit.tech/blog/inspect-any-android-apps-http/
